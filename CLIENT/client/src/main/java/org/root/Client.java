@@ -10,7 +10,7 @@ class WsClient extends WebSocketClient {
         super(serverURI);
     }
     
-    //Fires when a servee connects.
+    //Fires when a server connects.
     @Override
     public void onOpen(ServerHandshake handshake) {
         System.out.println("Connected!");
