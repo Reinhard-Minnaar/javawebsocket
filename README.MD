@@ -35,7 +35,7 @@ public class Client {
 ## Getting Started
 
 ```bash
-git clone https://github.com/Exiter-Minnaar/javawebsocket.git
+git clone https://github.com/Reinhard-Minnaar/javawebsocket.git
 cd javawebsocket
 ```
 
